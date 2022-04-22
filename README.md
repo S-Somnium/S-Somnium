@@ -15,7 +15,7 @@ Hi there, im lucas a full stack developer that love to code since i was 15y ! I 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Status geral
+## Status
 <div align="center">
  <img height="175em" width="100%" src="https://github-readme-stats.vercel.app/api?username=S-Somnium&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
