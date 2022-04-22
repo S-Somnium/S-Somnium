@@ -17,6 +17,6 @@ Hi there, im lucas a full stack developer that love to code since i was 15y ! I 
 
 ## Status geral
 <div align="center">
- <img height="175em" width="50%" src="https://github-readme-stats.vercel.app/api?username=S-Somnium&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Somnium&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="175em" width="100%" src="https://github-readme-stats.vercel.app/api?username=S-Somnium&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Somnium&layout=compact&langs_count=7&theme=dracula"/>
 </div>
