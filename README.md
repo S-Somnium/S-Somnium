@@ -8,9 +8,9 @@ Hi there, im lucas a full stack developer that love to code since i was 15y ! I 
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=golang&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,5 +18,4 @@ Hi there, im lucas a full stack developer that love to code since i was 15y ! I 
 ## Status geral
 <div align="center">
  <img height="175em" width="100%" src="https://github-readme-stats.vercel.app/api?username=S-Somnium&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Somnium&layout=compact&langs_count=7&theme=dracula"/>
 </div>
