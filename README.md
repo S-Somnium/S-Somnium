@@ -15,7 +15,6 @@ Hi there, im lucas a full stack developer that love to code since i was 15 years
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
  ## Technologies I am currently studying
-![CYPRESS](https://img.shields.io/badge/cypress-white?style=for-the-badge&logo=cypress&logoColor=black)
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/graphql-white?style=for-the-badge&logo=graphql&logoColor=pink)
 
