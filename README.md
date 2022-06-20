@@ -13,9 +13,9 @@ Hi there, im lucas a full stack developer that love to code since i was 15 years
 ![Golang](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
  ## Technologies I am currently studying
-![POSTGRESQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/graphql-white?style=for-the-badge&logo=graphql&logoColor=pink)
 
 
