@@ -17,6 +17,7 @@ Hi there, im lucas a full stack developer that love to code since i was 15 years
 
  ## Technologies I am currently studying
 ![GRAPHQL](https://img.shields.io/badge/graphql-white?style=for-the-badge&logo=graphql&logoColor=pink)
+![JEST](https://img.shields.io/badge/graphql-white?style=for-the-badge&logo=jest&logoColor=black)
 
 
  ## Connect with me
