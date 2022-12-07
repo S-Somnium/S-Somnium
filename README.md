@@ -15,10 +15,6 @@ Hi there, im lucas a full stack developer that love to code since i was 15 years
 ![KUBERNETES](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
- ## Connect with me
- [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bezerra-full-stack-developer/)
-
-
 ## Status
 <div align="center">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=S-Somnium&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
