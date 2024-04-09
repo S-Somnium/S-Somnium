@@ -1,5 +1,5 @@
 ## Who am i?
-Hi there, im lucas a full stack developer that love to code since i was 15 years old! I love to solve problems! One day i will change de developers world. 
+Hi there, im lucas a full stack developer that love to code since i was 15 years old! I love to solve problems! 
 ## Technologies I am currently using
 ![Golang](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
